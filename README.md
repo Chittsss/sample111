@@ -14,4 +14,4 @@ Exercise 7
 [https://colab.research.google.com/drive/10LehmHIKGVLQOZzzoslF1KU-iTqglYHL#scrollTo=6uSOM_N3qeHk](url)
 
 Exercise 8
-[https://colab.research.google.com/drive/136LAxEvpR2stJZeQaF4Cnox3hwykZzAc]([url](https://colab.research.google.com/drive/136LAxEvpR2stJZeQaF4Cnox3hwykZzAc))
+[https://colab.research.google.com/drive/136LAxEvpR2stJZeQaF4Cnox3hwykZzAc](url)
